@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="14Maman"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="14Maman">
+				<Option output="/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug/14Maman.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.2.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.2.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug/Makefile&quot;  VERBOSE=1 14Maman"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="14Maman/fast">
+				<Option output="/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug/14Maman.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.2.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.2.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug/Makefile&quot;  VERBOSE=1 14Maman/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/Ben/CLionProjects/14Maman/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/constants.h">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/main.c">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/modules/Analyzer.c">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/modules/Analyzer.h">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/modules/CodeSegement.c">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/modules/CodeSegement.h">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/modules/CommandBuilder.c">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/modules/CommandBuilder.h">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/modules/CommandsIndex.c">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/modules/CommandsIndex.h">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/modules/DataSegment.c">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/modules/DataSegment.h">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/modules/Opearnds.c">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/modules/Opearnds.h">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/modules/SymbolsTable.c">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/modules/SymbolsTable.h">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/modules/statments_types.h">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/phase1.c">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/phase1.h">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/phase2.c">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/phase2.h">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/utils/Binary.c">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/utils/Binary.h">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/utils/Error.c">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/utils/Error.h">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/utils/FileReader.c">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/utils/FileReader.h">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/utils/FileWriter.c">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/utils/FileWriter.h">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/utils/List.c">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/utils/List.h">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/utils/TextUtils.c">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/src/utils/TextUtils.h">
+			<Option target="14Maman"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Ben/CLionProjects/14Maman/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
